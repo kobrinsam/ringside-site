@@ -107,3 +107,17 @@ header.nav{position:sticky;top:0;z-index:50;background:rgba(18,55,42,.78);backdr
   .js .rise,.js .pop,.js .words span,.js .reveal{opacity:1!important;transform:none!important}
   .horse{display:block}
 }
+
+.logo{display:inline-flex;align-items:center;gap:10px}
+.logo img{border-radius:7px;display:block}
+.policy h1{font-size:2.1rem}
+.policy h2{font-size:1.25rem;margin:2.2em 0 .5em;padding-top:1.1em;border-top:1px solid var(--rule)}
+.policy .lead{margin-bottom:1.4em}
+.policy p,.policy li{margin:.55em 0}
+.policy ul{padding-left:1.3em}
+.policy a{color:var(--green);font-weight:600}
+@media (prefers-color-scheme:dark){.policy a{color:var(--lime)}}
+.policy table{width:100%;border-collapse:collapse;margin:1em 0;font-size:.95rem}
+.policy th,.policy td{text-align:left;vertical-align:top;padding:10px 12px 10px 0;border-bottom:1px solid var(--rule)}
+.policy th{color:var(--muted);font-weight:650}
+.policy .meta{color:var(--muted)}
