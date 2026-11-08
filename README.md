@@ -1,4 +1,7 @@
 # ringside-site
+
+Privacy policy URL: https://kobrinsam.github.io/ringside-site/privacy.html
+
 Public website for the Ringside: Horse Show Scores iOS app.
 
 - `privacy.html` is the privacy policy (App Store Connect privacy policy URL).
